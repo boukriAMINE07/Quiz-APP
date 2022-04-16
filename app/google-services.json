@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753164390666",
+    "project_id": "authquiz-fc3d6",
+    "storage_bucket": "authquiz-fc3d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753164390666:android:bfa13b0ea527307e702af3",
+        "android_client_info": {
+          "package_name": "com.boukri_amine.quizapp_c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753164390666-fi82cojk0mveqss3if8tgq1ple10rf31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4RMbmXVegyeP2ybw1piOvW478rlNQ3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753164390666-fi82cojk0mveqss3if8tgq1ple10rf31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
